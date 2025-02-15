@@ -2,6 +2,7 @@ Sticky Notes 📝
 
 A modern, feature-rich sticky notes web application that allows users to create, manage, and organize their notes with a clean and intuitive interface.
 
+
 Features ✨
 Authentication & User Management
 
@@ -11,6 +12,7 @@ Password reset functionality
 Custom profile picture upload via Cloudinary
 Persistent user sessions
 
+
 Note Management
 
 Create, read, update, and delete notes
@@ -19,6 +21,7 @@ Automatic timestamps for all notes
 Note locking with PIN protection
 Real-time note saving
 
+
 Search & Organization
 
 Search notes by title
@@ -26,6 +29,7 @@ Filter notes by date
 Date picker for precise filtering
 Clear search/filter functionality
 Chronological note ordering
+
 
 User Interface
 
@@ -38,6 +42,7 @@ Intuitive navigation
 Empty state handling with placeholder
 Loading states and error handling
 
+
 Security Features
 
 Secure authentication via Firebase
@@ -45,6 +50,7 @@ Protected routes and data access
 PIN-protected note locking
 Secure password requirements
 Safe data deletion confirmation
+
 
 Technology Stack 🛠️
 Frontend
@@ -62,11 +68,13 @@ Firebase Firestore Database
 Cloudinary Image Storage
 Real-time data synchronization
 
+
 Integrations
 
 Firebase SDK
 Cloudinary Upload API
 Flatpickr Library
+
 
 Installation & Setup 🚀
 
@@ -93,10 +101,13 @@ htmlCopy<!-- Add to index.html -->
 
 Run the application using a local server
 
+
 Live Demo 
 https://stickynotesproject.netlify.app
 
+
 Usage Guide 📘
+
 
 Getting Started
 
@@ -144,6 +155,7 @@ Protected user data access
 Safe image upload handling
 Secure authentication flow
 
+
 Browser Support 🌐
 
 Chrome (latest)
@@ -151,6 +163,7 @@ Firefox (latest)
 Safari (latest)
 Edge (latest)
 Responsive design for mobile devices
+
 
 Contributing 🤝
 
@@ -160,7 +173,8 @@ Commit your changes
 Push to the branch
 Open a pull request
 
+
 License 📄
 This project is licensed under the MIT License - see the LICENSE file for details.
 Contact 📧
-For support or queries, contact: info.support@stickynotes.com
+For support or queries, contact: 📧 Email: karanchavda543@gmail.com 🐙 GitHub: karn30chavda
