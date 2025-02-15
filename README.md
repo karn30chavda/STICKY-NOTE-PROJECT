@@ -93,6 +93,9 @@ htmlCopy<!-- Add to index.html -->
 
 Run the application using a local server
 
+Live Demo 
+https://stickynotesproject.netlify.app
+
 Usage Guide 📘
 
 Getting Started
